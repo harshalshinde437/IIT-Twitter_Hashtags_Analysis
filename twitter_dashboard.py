@@ -42,8 +42,8 @@ except:
 
 # Configuration
 SQLITE_DB = "twitter_analysis.db"
-DEFAULT_REFRESH = 50  # minutes
-MAX_TWEETS = 30
+DEFAULT_REFRESH = 80  # minutes
+MAX_TWEETS = 30000
 COLOR_PALETTE = px.colors.qualitative.Vivid
 
 # Initialize Spark
