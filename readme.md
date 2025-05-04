@@ -1,7 +1,7 @@
 
 # Twitter Hashtag Analysis Dashboard 🐦📊
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Twitter+Analytics+Dashboard+Screenshot+v1.0)
+![Dashboard Preview](Sample_CSV/Dashboard.png)
 
 ## 📌 Table of Contents
 - [Features](#-features)
